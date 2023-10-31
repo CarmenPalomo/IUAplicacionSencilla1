@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IUAplicacionSencilla1</string>
+    <string name="edir_message">Enter a message</string>
+    <string name="Button_send">Send</string>
+</resources>
